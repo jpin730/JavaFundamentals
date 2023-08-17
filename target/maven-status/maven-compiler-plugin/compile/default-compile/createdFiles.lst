@@ -1,12 +1,14 @@
 ClassesAndInterfaces/Charmander.class
+Videogame/Main.class
+ClassesAndInterfaces/Main.class
+ClassesAndInterfaces/Bulbasaur.class
+Videogame/Videogame.class
+ClassesAndInterfaces/Pokemon.class
 Lists/Main.class
 ClassesAndInterfaces/IWater.class
-ClassesAndInterfaces/Main.class
 ClassesAndInterfaces/Squirtle.class
-ClassesAndInterfaces/Bulbasaur.class
 ClassesAndInterfaces/IGrass.class
 Lists/Person.class
 ClassesAndInterfaces/Pikachu.class
-ClassesAndInterfaces/Pokemon.class
 ClassesAndInterfaces/IElectric.class
 ClassesAndInterfaces/IFire.class
